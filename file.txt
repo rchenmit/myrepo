@@ -1,2 +1,7 @@
 line1
 line2
+<<<<<<< HEAD
+=======
+added one more line
+adding one more line\n.
+>>>>>>> 3c26000636771238ca982d2a216505bfb40beaf8
